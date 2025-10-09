@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1d7c4e73.css",
+    "main.js": "/static/js/main.13f9ee4e.js",
+    "static/js/787.573fe5ba.chunk.js": "/static/js/787.573fe5ba.chunk.js",
+    "static/media/PTF55F.ttf": "/static/media/PTF55F.26d0ba434e0874b7ebcf.ttf",
+    "static/media/market.jpg": "/static/media/market.fc408fd9bb892b58dd96.jpg",
+    "static/media/stocks.jpg": "/static/media/stocks.ee8632ca6d829e604035.jpg",
+    "static/media/amazon.png": "/static/media/amazon.da84a489ba8b1224f211.png",
+    "static/media/card-post-footer.png": "/static/media/card-post-footer.390cc5dccef30ce50eaf.png",
+    "static/media/imageone.png": "/static/media/imageone.dbe1650e0c92c7147894.png",
+    "static/media/imagetwo.png": "/static/media/imagetwo.d8eada3c2f6bb6c0afd8.png",
+    "static/media/logo-small-2.png": "/static/media/logo-small-2.136ed584b67eb9dad942.png",
+    "static/media/black-logo-sm-2.png": "/static/media/black-logo-sm-2.2b746481de2311fed3c3.png",
+    "static/media/white-logo-sm-2.png": "/static/media/white-logo-sm-2.22f8fc649d65e153bca4.png",
+    "index.html": "/index.html",
+    "static/media/close-icon.svg": "/static/media/close-icon.46f7e1241bd6506eaaf51a54248a47c1.svg",
+    "main.1d7c4e73.css.map": "/static/css/main.1d7c4e73.css.map",
+    "main.13f9ee4e.js.map": "/static/js/main.13f9ee4e.js.map",
+    "787.573fe5ba.chunk.js.map": "/static/js/787.573fe5ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d7c4e73.css",
+    "static/js/main.13f9ee4e.js"
+  ]
+}
